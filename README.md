@@ -1,6 +1,6 @@
 # Case Study: Multi-Tenant CRM for Appointment-Setting Teams
 
-> Code is proprietary to a former employer and is not included. This write-up describes my role and the engineering involved.
+> Code is proprietary to an employer and is not included. This write-up describes my role and the engineering involved.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
